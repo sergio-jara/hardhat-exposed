@@ -1,10 +1,10 @@
 {
-  "name": "hardhat-exposed",
+  "name": "hardhat-exposed-exclude-vars",
   "version": "0.2.3",
   "description": "Automatically expose internal functions for smart contract testing",
   "license": "MIT",
-  "author": "Francisco Giordano <frangio.1@gmail.com>",
-  "repository": "github:frangio/hardhat-exposed",
+  "author": "Sergio Jara <sergio.jara@iovlabs.org>",
+  "repository": "github:sergio-jara/hardhat-exposed",
   "main": "dist/plugin.js",
   "files": [
     "/dist",
